@@ -1,0 +1,4 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v1">
+		<prescription link="/HankAviator/rx-gms-analytics" />
+		<prescription link="/greenify-prescription/rx-miui" />
+</prescriptions>
